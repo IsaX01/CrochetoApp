@@ -1,0 +1,1 @@
+C:\Users\developer\Desktop\Crocheto\CrochetoApp\CrochetoApp.csproj;x64

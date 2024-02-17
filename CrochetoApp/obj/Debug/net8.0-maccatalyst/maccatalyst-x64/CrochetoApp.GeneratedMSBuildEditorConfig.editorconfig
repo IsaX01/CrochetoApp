@@ -34,6 +34,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
+[C:/Users/developer/Desktop/Crocheto/CrochetoApp/Pages/Access/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Pages.Access.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\Access\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\Access\Login.xaml
+
 [C:/Users/developer/Desktop/Crocheto/CrochetoApp/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = CrochetoApp.Resources.Styles.Colors.xaml
